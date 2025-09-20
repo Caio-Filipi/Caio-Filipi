@@ -18,7 +18,7 @@
 ---
 
 ## 📈 Linguagens usadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Filipi&layout=compact&theme=radical)
 
 ---
 
